@@ -1,3 +1,4 @@
 # kbe_doc
-kbengine的详细文档
+kbengine的常见问题
+
 https://github.com/ilvxna/kbe_doc/wiki
